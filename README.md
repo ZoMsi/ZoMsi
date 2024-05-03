@@ -8,9 +8,6 @@ I am a Web Lead developper
 
 - 🔭 I'm currently working  to FactoryOnline as lead developper
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=php,symfony,laravel,js,jquery,nodejs,npm,webpack,html,css,bootstrap,mysql,git,docker,ubuntu,debian)](https://skillicons.dev)
