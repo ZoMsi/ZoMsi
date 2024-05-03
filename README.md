@@ -19,19 +19,24 @@ I am a Web Lead developper
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
+
 - 🧠 Preparing Symfony certification to validate my expertise
 
 
 ## 🏆 Achievements
 
-- 💻 I played a pivotal role in the development of the web application for [BCIFRANCE](https://bcifrance.fr), a French company specializing in various certifications such as Qualiopi, ISO 9001, and more.   
-- 🌐 I spearheaded the development team for the e-commerce platform [ASAPE](https://asape.store). This project significantly enhanced my proficiency in the Laravel and Symfony frameworks. 
+- 💻 I played a pivotal role in the development of the web application for [BCIFRANCE](https://bcifrance.fr), a French company specializing in various certifications such as Qualiopi, ISO 9001, and more.
+  
+- 🌐 I spearheaded the development team for the e-commerce platform [ASAPE](https://asape.store). This project significantly enhanced my proficiency in the Laravel and Symfony frameworks.
+  
 - 🍣 I've create [Dragon d'or sushi](https://dragondorsushi.fr/) with Laravel
+  
 - 🛤️ I spearheaded the development team for [SETVF](https://www.setvf.com/) That is the UNION OF RAILWAY WORK CONTRACTORS OF FRANCE
 
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](www.linkedin.com/in/zo-nierenana-andriantseheno-6981b41a7)
+  
 - or on [Facebook]([https://theenthusiast.dev](https://web.facebook.com/zonierenana/))
 
 Thanks for stopping by! . 🚀
