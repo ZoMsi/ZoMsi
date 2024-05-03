@@ -2,7 +2,7 @@
 
 I am a Web Lead developper 
 
-![Zo's Stats](https://github-readme-stats-seven-vert-31.vercel.app/api?username=ZoMsi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Zo's Stats](https://github-readme-stats-coral-eight-70.vercel.app/api?username=ZoMsi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
