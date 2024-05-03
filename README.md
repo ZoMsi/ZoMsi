@@ -37,7 +37,7 @@ I am a Web Lead developper
 
 - Connect with me on [LinkedIn](www.linkedin.com/in/zo-nierenana-andriantseheno-6981b41a7)
   
-- or on [Facebook]([https://theenthusiast.dev](https://web.facebook.com/zonierenana/))
+- or on [Facebook](https://web.facebook.com/zonierenana/)
 
 Thanks for stopping by! . 🚀
 
