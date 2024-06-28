@@ -4,7 +4,7 @@ I am a Web Lead developper
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working  to FactoryOnline as lead developper
+- 🔭 I'm currently working  to BCI France as lead developper
 
 
 ## Tech Stack
@@ -21,9 +21,7 @@ I am a Web Lead developper
 ## 🏆 Achievements
 
 - 💻 I played a pivotal role in the development of the web application for [BCIFRANCE](https://bcifrance.fr), a French company specializing in various certifications such as Qualiopi, ISO 9001, and more.
-  
-- 🌐 I spearheaded the development team for the e-commerce platform [ASAPE](https://asape.store). This project significantly enhanced my proficiency in the Laravel and Symfony frameworks.
-  
+
 - 🍣 I've create [Dragon d'or sushi](https://dragondorsushi.fr/) with Laravel
   
 - 🛤️ I spearheaded the development team for [SETVF](https://www.setvf.com/) That is the UNION OF RAILWAY WORK CONTRACTORS OF FRANCE
